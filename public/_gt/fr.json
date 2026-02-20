@@ -1,0 +1,96 @@
+{
+  "00d272b9d9d90f50": "Horizon de verre",
+  "010b1c91b5ba8902": "En promotion",
+  "01760f73682a55ed": "Crimson Tide Orchestra",
+  "051eb74ba928bb3f": "Budokan Hall, Tokyo",
+  "2230fa5115385587": [
+    "Parcourez ",
+    {
+      "i": 1,
+      "k": "_gt_n_1",
+      "v": "n"
+    },
+    " événements à venir avec des dates traduites, des prix formatés selon la locale et la disponibilité des places en temps réel."
+  ],
+  "30696951b62c7ead": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " places restantes"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " places restantes"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " places restantes"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " place restante"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "3b5c182d3bdbbdf9": "The Velvet Echoes",
+  "4c4698bbcf1ea117": "Royal Concert Hall, Londres",
+  "51838b3ffd77e212": "Neon Pulse",
+  "523b2b7dfc1c976a": "Il s'agit d'un exemple d'application développée avec General Translation pour illustrer les fonctionnalités d'internationalisation, notamment les composants DateTime, Currency, Num, Pluriel et Branche.",
+  "560c849192288f2e": [
+    "À partir de ",
+    {
+      "i": 1,
+      "k": "_gt_cost_1",
+      "v": "c"
+    }
+  ],
+  "6dd05deb8c54903e": "Sydney Opera House, Sydney",
+  "72a089182bee6da1": "Concerts à venir",
+  "8b5b278ce8ff95e3": "Aucune place disponible",
+  "9228616347b9febd": "Olympia Hall, Paris",
+  "99b298ab75cc09db": "Épuisé",
+  "aab5f4580231e601": "Une place de marché multilingue pour l’achat de billets de concert, avec des dates, des prix et des disponibilités de sièges adaptés à la langue et à la région de l’utilisateur.",
+  "b6d8ec5831ab1e24": "Prévente",
+  "c0012dec6982a410": "Billets de concert | Traduction par défaut",
+  "ca703bb7ee0f7a40": "Madison Square Garden, New York",
+  "e050c3337bf95322": "Palau de la Música, Barcelone",
+  "e6440a034ba4ae09": "Aurora Strings Quartet",
+  "f5fee7ca15b43435": "Fréquence silencieuse"
+}

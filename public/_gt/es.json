@@ -1,0 +1,96 @@
+{
+  "00d272b9d9d90f50": "Horizonte de cristal",
+  "010b1c91b5ba8902": "En oferta",
+  "01760f73682a55ed": "Crimson Tide Orchestra",
+  "051eb74ba928bb3f": "Budokan Hall, Tokio",
+  "2230fa5115385587": [
+    "Explora ",
+    {
+      "i": 1,
+      "k": "_gt_n_1",
+      "v": "n"
+    },
+    " eventos próximos con fechas traducidas, precios con formato regional y disponibilidad de asientos en tiempo real."
+  ],
+  "30696951b62c7ead": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " asientos restantes"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " asientos restantes"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " asientos restantes"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " asiento restante"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "3b5c182d3bdbbdf9": "The Velvet Echoes",
+  "4c4698bbcf1ea117": "Royal Concert Hall, Londres",
+  "51838b3ffd77e212": "Neon Pulse",
+  "523b2b7dfc1c976a": "Esta es una aplicación de ejemplo creada con General Translation para demostrar funciones de internacionalización, incluidos los componentes DateTime, Currency, Num, Plural y Rama.",
+  "560c849192288f2e": [
+    "Desde ",
+    {
+      "i": 1,
+      "k": "_gt_cost_1",
+      "v": "c"
+    }
+  ],
+  "6dd05deb8c54903e": "Sydney Opera House, Sídney",
+  "72a089182bee6da1": "Próximos Conciertos",
+  "8b5b278ce8ff95e3": "Sin asientos disponibles",
+  "9228616347b9febd": "Olympia Hall, París",
+  "99b298ab75cc09db": "Agotado",
+  "aab5f4580231e601": "Un mercado multilingüe de entradas para conciertos, con fechas, precios y disponibilidad de asientos formateados según la configuración regional.",
+  "b6d8ec5831ab1e24": "Preventa",
+  "c0012dec6982a410": "Entradas para conciertos | Traducción general",
+  "ca703bb7ee0f7a40": "Madison Square Garden, Nueva York",
+  "e050c3337bf95322": "Palau de la Música, Barcelona",
+  "e6440a034ba4ae09": "Aurora Strings Quartet",
+  "f5fee7ca15b43435": "Frecuencia silenciosa"
+}
