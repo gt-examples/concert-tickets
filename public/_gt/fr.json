@@ -1,8 +1,26 @@
 {
-  "00d272b9d9d90f50": "Horizon de verre",
+  "0038459818ca3d61": "Budokan Hall",
+  "00d272b9d9d90f50": "Glass Horizon",
   "010b1c91b5ba8902": "En promotion",
   "01760f73682a55ed": "Crimson Tide Orchestra",
-  "051eb74ba928bb3f": "Budokan Hall, Tokyo",
+  "02cdcdfef7deb764": "Sydney Opera House",
+  "0381659877f47a4f": "Lieu",
+  "03f33009a72e18ed": "Sydney, Australie",
+  "06c0c789b7fb5b19": [
+    "Portes ouvertes à ",
+    {
+      "i": 1,
+      "k": "_gt_value_1",
+      "v": "v"
+    }
+  ],
+  "0c1c3c83a17f1148": "Premium",
+  "0d214bcd22cb6146": "Places au parterre avec casque audio spatialisé",
+  "110f8b393bbeaa3f": "Places en galerie haute",
+  "1c71cea424971547": "Yuki Tanaka — Artiste visuel",
+  "1d76e6a9406cc648": "Neon Pulse présente son show synthwave électrisant à New York pour une date unique. Attendez-vous à une déferlante sensorielle de jeux de lumière pulsés, de basses tonitruantes et de leur mélange signature de paysages sonores rétrofuturistes. Leur tournée mondiale « Chromatic Dreams » affiche complet dans des arènes sur trois continents.",
+  "1ef91cc2b75c9e0d": "Section avant, coupe de champagne pendant l’entracte, affiche dédicacée",
+  "212e966f1230d7a3": "Visite des coulisses, entrée anticipée, produits dérivés exclusifs",
   "2230fa5115385587": [
     "Parcourez ",
     {
@@ -10,8 +28,13 @@
       "k": "_gt_n_1",
       "v": "n"
     },
-    " événements à venir avec des dates traduites, des prix formatés selon la locale et la disponibilité des places en temps réel."
+    " événements à venir avec des dates traduites, des prix formatés selon la locale et une disponibilité des places en temps réel."
   ],
+  "22815b8de5728ca9": "Première rangée, rencontre avec l’artiste après le spectacle, enregistrement du spectacle",
+  "29aa94ca863188c6": "Synthia Vox — Première partie",
+  "2b470b05d992b59e": "Immersif",
+  "2bdb4dd9f69db276": "Places réservées",
+  "2d6075c8f87f20dd": "Mar Vidal — Guitare flamenco",
   "30696951b62c7ead": {
     "d": {
       "b": {
@@ -69,10 +92,17 @@
     "i": 1,
     "t": "Plural"
   },
+  "34d1e0ccb8599486": "Royal Concert Hall",
+  "39428047de01a359": "Kaze Collective — Première partie",
   "3b5c182d3bdbbdf9": "The Velvet Echoes",
-  "4c4698bbcf1ea117": "Royal Concert Hall, Londres",
+  "3ca22835a7f60f2a": "Le projet ambient électronique de Silent Frequency transforme le Budokan sacré en une expérience audiovisuelle immersive. Grâce au mapping vidéo à 360 degrés et à l’audio spatial, ce n’est pas seulement un concert — c’est une méditation sur le son et la lumière.",
+  "3d72aab3fadad820": "Olympia Hall",
+  "4219138e0da992aa": "Places au balcon",
+  "48da4d62f5be3a61": "Arène la plus célèbre au monde, Madison Square Garden accueille des performances légendaires depuis plus d’un siècle. Située à Midtown Manhattan, elle reste la référence incontestée en matière de spectacles live.",
+  "4ce1272c4c078b31": "À propos du lieu",
   "51838b3ffd77e212": "Neon Pulse",
   "523b2b7dfc1c976a": "Il s'agit d'un exemple d'application développée avec General Translation pour illustrer les fonctionnalités d'internationalisation, notamment les composants DateTime, Currency, Num, Pluriel et Branche.",
+  "52c8729410daae1d": "Favori",
   "560c849192288f2e": [
     "À partir de ",
     {
@@ -81,16 +111,68 @@
       "v": "c"
     }
   ],
-  "6dd05deb8c54903e": "Sydney Opera House, Sydney",
+  "58bec0a5a88d5b95": "Tokyo, Japon",
+  "5df08a3695c7d31e": "Disponibilité",
+  "618d2fb334449bf8": "Places prioritaires, boisson incluse",
+  "67a4eba519031794": "Vivez le concert envoûtant de l’Aurora Strings Quartet, avec des œuvres de Dvořák, Chostakovitch et une création mondiale de la compositrice contemporaine Elina Mäkelä. Réputé pour la richesse émotionnelle de ses interprétations et la parfaite cohésion de son ensemble, ce quatuor vous offre une soirée de musique de chambre à son plus haut niveau.",
+  "684e516076de81fe": "Standard",
+  "6d4ed14b8c797bea": "Admission générale",
+  "708816c1bcee4fce": "Places en orchestre avec programme imprimé",
   "72a089182bee6da1": "Concerts à venir",
+  "78c67566d74ad1d7": "Ousmane Diallo — Kora",
+  "7c526b3ae35f8cf0": "Crimson Tide Orchestra propose une soirée épique de musique de film, avec les bandes originales emblématiques de Hans Zimmer, John Williams et Ennio Morricone, interprétées par un orchestre symphonique complet de 80 musiciens. Un rendez-vous incontournable pour tous les amateurs de cinéma et de musique.",
+  "7d996bbf61fa085e": "Platine",
+  "7ffe2973079393fb": "Salle de concert parisienne mythique inaugurée en 1893, l’Olympia accueille les plus grands noms de la musique, d’Édith Piaf aux Beatles. Son atmosphère intimiste et sa riche histoire rendent chaque spectacle inoubliable.",
+  "84cff34d46d12985": "Crimson Tide Orchestra — 80 musiciens",
+  "8667a0563f9759b5": "Conçu par Lluís Domènech i Montaner, le Palau de la Música, classé au patrimoine mondial de l’UNESCO, est un chef‑d’œuvre de l’architecture moderniste catalane. Son puits de lumière en vitrail et ses sculptures ornementales offrent un cadre à couper le souffle pour la musique live.",
+  "87fd426b81e9f88d": "Lineup",
+  "89a8bf6f2bde654c": "Maestro Richard Fenn — Chef d’orchestre",
+  "8a794f70dc21652b": "Elina Mäkelä — Compositrice invitée",
   "8b5b278ce8ff95e3": "Aucune place disponible",
-  "9228616347b9febd": "Olympia Hall, Paris",
+  "8bb6ed94de77fb3f": "À partir de",
+  "8e08339a19741944": "Places en gradins",
+  "952eff54441e59c1": "Places en orchestre",
+  "968439b7b1f1599b": "Expérience VIP",
   "99b298ab75cc09db": "Épuisé",
-  "aab5f4580231e601": "Une place de marché multilingue pour l’achat de billets de concert, avec des dates, des prix et des disponibilités de sièges adaptés à la langue et à la région de l’utilisateur.",
+  "9a86d8e463c564f3": "Date et heure",
+  "9d17170b080e2f2c": "Tous les événements",
+  "9e1e9cde140186eb": [
+    {
+      "i": 1,
+      "k": "_gt_n_1",
+      "v": "n"
+    },
+    " places restantes"
+  ],
+  "9f8c2fcb1df2de0d": "DJ Parallax — Set avant‑spectacle",
+  "a3d9983c8ad9aec3": "New York, États-Unis",
+  "a59afb0fc35d5146": "Aria Chen — Violon solo",
+  "a6e2e95f565a3489": "Placement libre",
+  "aab5f4580231e601": "Place de marché multilingue de billets de concert, avec les dates, les prix et la disponibilité des sièges formatés en fonction de la langue et de la région.",
+  "ab1abd7d4373e29a": "Accès fosse debout",
+  "ae598d291b19a2c0": "L’un des principaux lieux de musique classique de Londres, le Royal Concert Hall offre une acoustique de classe mondiale et une élégante architecture victorienne, au cœur du quartier culturel de South Bank.",
+  "b1007b67696772c9": "Madison Square Garden",
+  "b2fc84a56f245f5d": "Paris, France",
+  "b3fbc85b22cb3312": "Première rangée, rencontre avec les artistes et programme dédicacé",
   "b6d8ec5831ab1e24": "Prévente",
-  "c0012dec6982a410": "Billets de concert | Traduction par défaut",
-  "ca703bb7ee0f7a40": "Madison Square Garden, New York",
-  "e050c3337bf95322": "Palau de la Música, Barcelone",
+  "bffadfc7e0d3b3d9": "Siège numéroté en bas des gradins",
+  "c0012dec6982a410": "Billets de concert | Traduction générique",
+  "c12921fc114fde8d": "Capacité",
+  "c4876a1357170c4b": "The Velvet Echoes reviennent à Paris avec leur son de folk indie envoûtant et mélodique. Cette soirée acoustique intimiste fera la part belle à des titres extraits de leur album salué par la critique, « Whispered Lanterns », ainsi qu’à de nouveaux morceaux inédits. Une soirée où la musique devient récit.",
+  "cce2952e573c82ff": "Barcelone, Espagne",
+  "d0e143fc1673aa00": "Mécène",
+  "d5d97859349d96e9": "Sièges au parterre",
+  "d761181cc792fa4a": "Or",
+  "dbdfcae1b3cd1e68": "Chef-d’œuvre architectural inscrit au patrimoine mondial de l’UNESCO, le Sydney Opera House est l’une des salles de spectacle les plus emblématiques au monde. Sa salle de concert offre une acoustique remarquable sous ses toits en forme de voiles.",
+  "e0e9729db51dc4a4": "Construit à l’origine pour les Jeux olympiques de 1964, le Nippon Budokan est devenu la salle de concert la plus mythique du Japon. Son architecture octogonale et son atmosphère spirituelle en ont fait un lieu de pèlerinage pour les artistes du monde entier.",
+  "e47a9124102acb45": "Lune dorée — Première partie",
+  "e4da856ed3366128": "Options de billet",
   "e6440a034ba4ae09": "Aurora Strings Quartet",
-  "f5fee7ca15b43435": "Fréquence silencieuse"
+  "e9b57f6f9fffb98d": "Palau de la Música",
+  "eb2b25bc095c8fbb": "Pass Créateur",
+  "f5bac2a444be247c": "VIP",
+  "f5fee7ca15b43435": "Silent Frequency",
+  "f62cc31a5315fe88": "Glass Horizon apporte son inclassable fusion de jazz, d’électro et de musiques du monde dans l’une des plus belles salles de concert d’Europe. Leur style, fondé sur l’improvisation et l’usage d’instruments traditionnels venus du monde entier, offre une expérience d’écoute vraiment unique.",
+  "f66389724e9b8e5f": "Londres, Royaume-Uni",
+  "fb3b8ec0994e941b": "Loge, réception avant-spectacle avec dégustation de vins"
 }
