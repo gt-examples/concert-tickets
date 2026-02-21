@@ -6,24 +6,26 @@ import { getConcerts, Concert } from "@/data/concerts";
 
 function StatusBadge({ status }: { status: Concert["status"] }) {
   return (
-    <Branch
-      branch={status}
-      on-sale={
-        <span className="inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-emerald-900/50 text-emerald-400 border border-emerald-800">
-          <T>On Sale</T>
-        </span>
-      }
-      presale={
-        <span className="inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-amber-900/50 text-amber-400 border border-amber-800">
-          <T>Presale</T>
-        </span>
-      }
-      sold-out={
-        <span className="inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-red-900/50 text-red-400 border border-red-800">
-          <T>Sold Out</T>
-        </span>
-      }
-    />
+    <T>
+      <Branch
+        branch={status}
+        on-sale={
+          <span className="inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-emerald-900/50 text-emerald-400 border border-emerald-800">
+            On Sale
+          </span>
+        }
+        presale={
+          <span className="inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-amber-900/50 text-amber-400 border border-amber-800">
+            Presale
+          </span>
+        }
+        sold-out={
+          <span className="inline-block text-xs font-medium px-2 py-0.5 rounded-full bg-red-900/50 text-red-400 border border-red-800">
+            Sold Out
+          </span>
+        }
+      />
+    </T>
   );
 }
 
@@ -82,8 +84,8 @@ function ConcertCard({ concert }: { concert: Concert }) {
 }
 
 export default async function Home() {
-  const t = await getGT();
-  const concerts = getConcerts(t);
+  const gt = await getGT();
+  const concerts = getConcerts(gt);
   const totalConcerts = concerts.length;
 
   return (
@@ -101,7 +103,7 @@ export default async function Home() {
             </a>
             <span className="text-neutral-700">/</span>
             <h1 className="text-sm font-semibold text-neutral-100">
-              Concert Tickets
+              <T>Concert Tickets</T>
             </h1>
           </div>
           <div className="flex items-center gap-3">
@@ -110,7 +112,7 @@ export default async function Home() {
               target="_blank"
               rel="noopener noreferrer"
               className="text-neutral-400 hover:text-neutral-200 transition-colors"
-              aria-label="View on GitHub"
+              aria-label={gt("View on GitHub")}
             >
               <svg
                 width="20"
